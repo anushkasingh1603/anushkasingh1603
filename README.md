@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anushka Singh</h1>
 
-<h3 align="center">Computer Science Engineering Student | Full Stack & AI/ML Enthusiast</h3>
+<h3 align="center">Information Technology Student | Full Stack & AI/ML Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver;Always+Learning+New+Things" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Engineering student at **Chandigarh University**
+- 🎓 B.Tech Information Technology student at **Chandigarh University**
 - 📍 Based in **Uttar Pradesh, India**
 - 💻 I build **real-world web applications** and explore **AI/ML**
 - 🌱 Currently sharpening my **Data Structures & Algorithms** skills
